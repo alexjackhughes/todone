@@ -97,3 +97,14 @@ input[type="submit"]:hover {
 .no-todos-message {
   opacity: 0.5;
 }
+
+.title {
+  margin-bottom: 0px;
+}
+
+.slogan {
+  font-style: italic;
+  line-height: 0;
+  font-size: 14px;
+  margin-bottom: 40px;
+}

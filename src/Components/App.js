@@ -43,6 +43,8 @@ class App extends Component {
     return (
       <div className="App">
         <header className="App-header">
+          <h1 className="title">ToDone</h1>
+          <p className="slogan">A very simple todo app by alex hughes</p>
           <AddTodo addTodo={this.addTodo.bind(this)} />
           {this.state.todos.length > 0 ? (
             <TodoList
