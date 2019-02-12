@@ -1,5 +1,4 @@
 import React, { Component } from "react";
-import "../Assets/App.css";
 
 import AddTodo from "./AddTodo";
 import TodoList from "./TodoList";

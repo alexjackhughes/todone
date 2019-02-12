@@ -1,6 +1,6 @@
 # ToDone by Alex Hughes
 
-A very simple todo example made with React and a bit of CSS.
+A very simple todo example made with React, `create-react-app`, and a bit of CSS.
 
 You can do the following actions:
 
